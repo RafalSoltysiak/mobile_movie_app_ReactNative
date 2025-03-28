@@ -9,7 +9,6 @@ import {
 import { useRouter } from "expo-router";
 
 import SearchBar from "@/components/SearchBar";
-
 import { icons } from "@/constants/icons";
 import { images } from "@/constants/images";
 import useFetch from "@/services/useFetch";
